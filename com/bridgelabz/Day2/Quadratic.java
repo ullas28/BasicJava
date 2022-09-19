@@ -1,4 +1,4 @@
-package com.bridgelabz.Day2.com.bridgelabz.Day2;
+package com.bridgelabz.Day2;
 import static java.lang.Math.*;
 import java.util.*;
 /*Write a program Quadratic.java to find the roots of the equation a*x*x + b*x + c.
